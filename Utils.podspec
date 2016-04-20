@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
 
 
   s.subspec 'AlertView' do |s1|
-    s1.source_files = 'i3Utils/Categories/AlerView/**/*.{h,m}'
+    s1.source_files = 'i3Utils/Categories/AlertView/**/*.{h,m}'
   end
 
   s.subspec 'ViewController' do |s1|
