@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.source_files  = '**/*.{h,m}'
   
   s.subspec 'Image' do |s1|
-    s1.source = 'i3Utils/Categories/Image/**/*.{h,m}'
+    s1.source_files = 'i3Utils/Categories/Image/**/*.{h,m}'
   end
 end
