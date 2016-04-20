@@ -10,4 +10,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source_files  = '**/*.{h,m}'
   
+  s.subspec 'Image' do |s1|
+    s1.source = 'Categories/Image/**/*.{h,m}'
+  end
 end
