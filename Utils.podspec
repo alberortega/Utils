@@ -13,4 +13,34 @@ Pod::Spec.new do |s|
   s.subspec 'Image' do |s1|
     s1.source_files = 'i3Utils/Categories/Image/**/*.{h,m}'
   end
+
+  s.subspec 'Color' do |s1|
+    s1.source_files = 'i3Utils/Categories/Color/**/*.{h,m}'
+  end
+
+  s.subspec 'String' do |s1|
+    s1.source_files = 'i3Utils/Categories/String/**/*.{h,m}'
+  end
+
+  s.subspec 'Data' do |s1|
+    s1.source_files = 'i3Utils/Categories/Data/**/*.{h,m}'
+  end
+
+  s.subspec 'Screen' do |s1|
+    s1.source_files = 'i3Utils/Categories/Screen/**/*.{h,m}'
+  end
+
+  s.subspec 'URLConnection' do |s1|
+    s1.source_files = 'i3Utils/Categories/URLConnection/**/*.{h,m}'
+  end
+
+
+  s.subspec 'AlerView' do |s1|
+    s1.source_files = 'i3Utils/Categories/AlerView/**/*.{h,m}'
+  end
+
+  s.subspec 'ViewController' do |s1|
+    s1.source_files = 'i3Utils/Categories/ViewController/**/*.{h,m}'
+  end
+
 end
