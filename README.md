@@ -6,7 +6,7 @@
 
 `Utils` works on iOS 7+ and requires ARC to build.
 
-## Adding MBProgressHUD to your project
+## Adding Utils to your project
 
 ### CocoaPods
 
