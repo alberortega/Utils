@@ -24,6 +24,7 @@
   * `pod 'Utils/URLConnection'`
   * `pod 'Utils/AlertView'`
   * `pod 'Utils/ViewController'`
+  - .
 
 2. Install the pod(s) by running `pod install`.
 3. Include Utils classes wherever you need`.
