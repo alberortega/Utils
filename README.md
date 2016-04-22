@@ -1,7 +1,7 @@
 # Utils
 
-[![Pod Version](https://img.shields.io/badge/pod-0.0.1-green.svg?style=flat)]
-[![Pod Platform](https://img.shields.io/badge/platform-iOS-green.svg?style=flat)]
+![Pod Version](https://img.shields.io/badge/pod-0.0.1-green.svg?style=flat)
+![Pod Platform](https://img.shields.io/badge/platform-iOS-green.svg?style=flat)
 
 `Utils` is an iOS library that contains useful categories and subclassses for using in your projects.
 
