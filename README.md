@@ -16,8 +16,8 @@
   * You can include all classes: `pod 'Utils', :git=> 'https://github.com/alberortega/Utils.git'`
   * You can include a group of classes: `pod 'Utils/Image', :git=> 'https://github.com/alberortega/Utils.git'`
   * The groups of classes that you can include are: 
-  1. `pod 'Utils/Image'`
-  + `pod 'Utils/Color'`
+1. `pod 'Utils/Image'`
+2. `pod 'Utils/Color'`
   * `pod 'Utils/String'`
   * `pod 'Utils/Screen'`
   * `pod 'Utils/Data'`
